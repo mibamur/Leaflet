@@ -2238,7 +2238,7 @@ Allow the user to measure distances or areas.
 		</td>
 		<td>
 			<a href="https://github.com/ljagis">LJA GIS</a>
-		</td>
+		</td>plu
 	</tr>
 	<tr>
 		<td>
@@ -3228,6 +3228,20 @@ The following plugins integrate Leaflet into third party services or websites.
 			and to add multiple markers on those maps.
 		</td><td>
 			<a href="https://twitter.com/bozdoz">Benjamin J DeLong</a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/axyjo/leaflet-rails">Rails Leaflet gem</a>
+		</td><td>
+		Gemfile<br />
+		gem 'leaflet-rails'<br />
+		bundle<br />
+		= require leaflet<br />
+		*= require leaflet
+		
+		</td><td>
+			<a href="https://github.com/axyjo">Akshay Joshi</a>
 		</td>
 	</tr>
 	<tr>
